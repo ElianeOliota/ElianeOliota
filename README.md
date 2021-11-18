@@ -17,6 +17,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
 ![Jquery](https://img.shields.io/badge/-Jquery-black?style=flat&logo=jquery)&nbsp;
+![Android](https://img.shields.io/badge/-Android%20java-black?style=flat&logo=Android&logoColor=green)&nbsp;
 </p>
 
 <p align="left">
