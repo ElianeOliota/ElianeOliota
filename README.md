@@ -33,16 +33,8 @@
 
 ---
 
-
-
 ![ElianeOliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianeoliota&show_icons=true&theme=dark)
 
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianeoliota&langs_count=50)](https://github.com/elianeoliota/github-readme-stats)
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elianeoliota&repo=elianeoliota.github.io)](https://github.com/elianeoliota/oliota.github.io) -->
 
 ---
 
@@ -55,6 +47,5 @@
 
   <br>
 
- 
 
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ElianeOliota)
