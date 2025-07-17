@@ -49,3 +49,12 @@
 
 
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ElianeOliota)
+
+<!-- thought:start -->
+![Data](https://img.shields.io/badge/17/07/2025-Zen--Thought-blue)
+
+```txt
+"The enemy is a very good teacher."
+— Dalai Lama
+```
+<!-- thought:end -->
