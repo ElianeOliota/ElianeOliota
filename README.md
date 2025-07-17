@@ -45,9 +45,9 @@
 <!-- ![ElianeOliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianeoliota&show_icons=true&theme=dark) -->
 
 
-##  🏆 Trophies GitHub
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=elianeoliota&row=1&&margin-w=30)](https://github.com/elianeoliota)
+
+
+
 
 <table>
 <tbody style="text-align:center">
@@ -59,7 +59,9 @@
 </td>
 <td>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianeoliota&layout=compact&theme=vue)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianeoliota&layout=compact&theme=vue)   
+
+
  
 </td>
 <td>
@@ -74,7 +76,8 @@
 
 ---
 
-![Snake animation](https://github.com/elianeoliota/elianeoliota/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ElianeOliota/pipeline-github/output/github-contribution-grid-snake.svg)
+
 
 ---
 
