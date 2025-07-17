@@ -7,6 +7,15 @@
 </p>
 
 ---
+<!-- thought:start -->
+![Data](https://img.shields.io/badge/17/07/2025-Zen--Thought-blue)
+
+```txt
+"The enemy is a very good teacher."
+— Dalai Lama
+```
+<!-- thought:end -->
+---
 
 <p align="left">
   ✍🏾 knowledge:
@@ -33,8 +42,39 @@
 
 ---
 
-![ElianeOliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianeoliota&show_icons=true&theme=dark)
+<!-- ![ElianeOliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianeoliota&show_icons=true&theme=dark) -->
 
+
+##  🏆 Trophies GitHub
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=elianeoliota&row=1&&margin-w=30)](https://github.com/elianeoliota)
+
+<table>
+<tbody style="text-align:center">
+<tr>
+<td>
+ 
+![ElianeOliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianeoliota&show_icons=true&theme=vue) 
+ 
+</td>
+<td>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianeoliota&layout=compact&theme=vue)  
+ 
+</td>
+<td>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elianeoliota&theme=vue) 
+
+</td>
+</tr>
+
+</tbody>
+</table>
+
+---
+
+![Snake animation](https://github.com/elianeoliota/elianeoliota/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -50,11 +90,4 @@
 
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ElianeOliota)
 
-<!-- thought:start -->
-![Data](https://img.shields.io/badge/17/07/2025-Zen--Thought-blue)
 
-```txt
-"The enemy is a very good teacher."
-— Dalai Lama
-```
-<!-- thought:end -->
