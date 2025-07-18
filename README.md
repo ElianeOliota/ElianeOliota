@@ -8,11 +8,11 @@
 
 ---
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/17/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/18/07/2025-Zen--Thought-blue)
 
 ```txt
-"The enemy is a very good teacher."
-— Dalai Lama
+"Either you choose to stay in the shallow end of the pool or you go out into the ocean."
+— Christopher Reeve
 ```
 <!-- thought:end -->
 ---
