@@ -8,11 +8,11 @@
 
 ---
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/18/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/19/07/2025-Zen--Thought-blue)
 
 ```txt
-"Either you choose to stay in the shallow end of the pool or you go out into the ocean."
-— Christopher Reeve
+"Get mad, then get over it."
+— Colin Powell
 ```
 <!-- thought:end -->
 ---
