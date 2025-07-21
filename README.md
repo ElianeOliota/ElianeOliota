@@ -8,11 +8,11 @@
 
 ---
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/20/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/21/07/2025-Zen--Thought-blue)
 
 ```txt
-"The sweetest pleasure arises from difficulties overcome."
-— Publilius Syrus
+"If fear is too strong, the genius is suppressed."
+— Robert Kiyosaki
 ```
 <!-- thought:end -->
 ---
