@@ -8,11 +8,11 @@
 
 ---
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/21/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/22/07/2025-Zen--Thought-blue)
 
 ```txt
-"If fear is too strong, the genius is suppressed."
-— Robert Kiyosaki
+"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
+— Thomas Edison
 ```
 <!-- thought:end -->
 ---
