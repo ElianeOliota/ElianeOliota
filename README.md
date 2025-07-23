@@ -8,11 +8,11 @@
 
 ---
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/22/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/23/07/2025-Zen--Thought-blue)
 
 ```txt
-"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
-— Thomas Edison
+"Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving."
+— Yanni
 ```
 <!-- thought:end -->
 ---
