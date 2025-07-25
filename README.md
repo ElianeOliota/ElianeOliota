@@ -8,11 +8,11 @@
 
 ---
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/24/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/25/07/2025-Zen--Thought-blue)
 
 ```txt
-"We need never be ashamed of our tears."
-— Charles Dickens
+"The key to immortality is first living a life worth remembering. "
+— Bruce Lee
 ```
 <!-- thought:end -->
 ---
