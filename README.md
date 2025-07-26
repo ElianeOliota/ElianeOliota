@@ -8,11 +8,11 @@
 
 ---
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/25/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/26/07/2025-Zen--Thought-blue)
 
 ```txt
-"The key to immortality is first living a life worth remembering. "
-— Bruce Lee
+"The river that flows in you also flows in me."
+— Kabir
 ```
 <!-- thought:end -->
 ---
