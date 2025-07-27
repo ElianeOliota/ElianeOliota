@@ -8,11 +8,11 @@
 
 ---
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/26/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/27/07/2025-Zen--Thought-blue)
 
 ```txt
-"The river that flows in you also flows in me."
-— Kabir
+"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "
+— Chinese Proverb
 ```
 <!-- thought:end -->
 ---
