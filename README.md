@@ -8,11 +8,11 @@
 
 ---
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/27/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/28/07/2025-Zen--Thought-blue)
 
 ```txt
-"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "
-— Chinese Proverb
+"When the time is gone, you can never get it back."
+— Stephen King
 ```
 <!-- thought:end -->
 ---
