@@ -8,11 +8,11 @@
 
 ---
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/28/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/29/07/2025-Zen--Thought-blue)
 
 ```txt
-"When the time is gone, you can never get it back."
-— Stephen King
+"Your work is to discover your work and then, with all your heart, to give yourself to it."
+— Buddha
 ```
 <!-- thought:end -->
 ---
