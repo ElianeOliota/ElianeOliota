@@ -8,11 +8,11 @@
 
 ---
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/29/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/30/07/2025-Zen--Thought-blue)
 
 ```txt
-"Your work is to discover your work and then, with all your heart, to give yourself to it."
-— Buddha
+"My definition of success is control."
+— Kenneth Branagh
 ```
 <!-- thought:end -->
 ---
