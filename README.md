@@ -1,20 +1,38 @@
 
 # ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=elianeoliota&color=ff00ff&label=Welcome+to+my+profile+you+are+visitor+nº:)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h2 align="left"> 
   Hi, I'm Eliane Oliota, currently studying programming.
 </p>
+ 
+
+
 
 ---
-<!-- thought:start -->
-![Data](https://img.shields.io/badge/31/07/2025-Zen--Thought-blue)
 
-```txt
-"The biggest challenge after success is shutting up about it."
-— Criss Jami
-```
+<!-- thought:start -->
+<p><img src="https://img.shields.io/badge/31%2F07%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+
+<table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:50%;">
+  <tr>
+    <td style="background:#f9f9f9; text-align:center;">
+      &quot;Victory is always possible for the person who refuses to stop fighting.&quot;<br><strong>— Napoleon Hill</strong>
+    </td>
+  </tr>
+</table>
+ 
 <!-- thought:end -->
+
+<!--
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+-->
+
+---
+
+<!-- summary:start -->
+<img src="https://heroku-backend-nodejs-fd16668acdd6.herokuapp.com/api/v1/summary-svg?user=elianeoliota" alt="GitHub Summary" />
+<!-- summary:end -->
+
 ---
 
 <p align="left">
@@ -47,7 +65,7 @@
 
 
 
-
+<!--
 
 <table>
 <tbody style="text-align:center">
@@ -73,6 +91,7 @@
 
 </tbody>
 </table>
+-->
 
 ---
 
