@@ -8,11 +8,11 @@
 
 ---
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/30/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/31/07/2025-Zen--Thought-blue)
 
 ```txt
-"My definition of success is control."
-— Kenneth Branagh
+"The biggest challenge after success is shutting up about it."
+— Criss Jami
 ```
 <!-- thought:end -->
 ---
