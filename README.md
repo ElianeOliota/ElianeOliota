@@ -11,12 +11,17 @@
 ---
 
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/01/08/2025-Zen--Thought-blue)
+<p><img src="https://img.shields.io/badge/01%2F08%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
-```txt
-"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."
-— Buddha
-```
+<table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
+  <tr>
+    <td style="background:#f9f9f9; text-align:center;">
+      &quot;Honesty is the first chapter in the book of wisdom.&quot;<br><strong>— Thomas Jefferson</strong>
+    </td>
+  </tr>
+</table>
+
+<br><br>
 <!-- thought:end -->
 
 <!--
