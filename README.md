@@ -30,10 +30,15 @@
 
 ---
 
+
+
 <!-- summary:start -->
 <img src="img/svg/resume/resume_profile.svg" alt="GitHub Summary" />
 <!-- updated: 2025-08-01 -->
 <!-- summary:end -->
+
+
+![Snake with border](https://raw.githubusercontent.com/ElianeOliota/ElianeOliota/refs/heads/main/img/svg/snake/snake_updated.svg)
 
 ---
 
