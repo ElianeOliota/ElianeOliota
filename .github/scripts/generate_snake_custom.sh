@@ -6,15 +6,7 @@ TARGET="img/svg/snake/snake_updated.svg"
 
 mkdir -p img/svg/snake
 
-PATTERN_DEFS='<defs>
-  <pattern id="diagonalStripes" patternUnits="userSpaceOnUse" width="40" height="40" patternTransform="rotate(45)">
-    <rect width="20" height="40" fill="#f9f9f9"/>
-    <rect x="20" width="20" height="40" fill="#ffffff"/>
-    <animateTransform attributeName="patternTransform" type="translate" from="0,0" to="-40,0" dur="3s" repeatCount="indefinite"/>
-  </pattern>
-</defs>'
-
-BORDER='<rect x="-16" y="-32" width="880" height="192" rx="20" ry="20" fill="url(#diagonalStripes)" stroke="#000" stroke-width="2"/>'
+BORDER='<rect x="-16" y="-32" width="880" height="192" rx="20" ry="20" fill="#fff" stroke="#000" stroke-width="2"/>'
 
 WIDTH=880
 PADDING=16
@@ -93,8 +85,7 @@ escape_sed() {
   printf '%s' "$1" | sed -e 's/[\/&]/\\&/g'
 }
 
-PATTERN_DEFS_ESCAPED=$(escape_sed "$PATTERN_DEFS")
 BORDER_ESCAPED=$(escape_sed "$BORDER")
 LABELS_ESCAPED=$(escape_sed "$LABELS")
 
-sed "s|<svg[^>]*>|&\n$PATTERN_DEFS_ESCAPED\n$BORDER_ESCAPED\n$LABELS_ESCAPED|" "$ORIGINAL" > "$TARGET"
+sed "s|<svg[^>]*>|&\n$BORDER_ESCAPED\n$LABELS_ESCAPED|" "$ORIGINAL" > "$TARGET"
