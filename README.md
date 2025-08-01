@@ -26,7 +26,7 @@
 ---
 
 <!-- summary:start -->
-<img src="https://heroku-backend-nodejs-fd16668acdd6.herokuapp.com/api/v1/summary-svg?user=ElianeOliota&ts=2025-07-31" alt="GitHub Summary" />
+<img src="https://heroku-backend-nodejs-fd16668acdd6.herokuapp.com/api/v1/summary-svg?user=ElianeOliota&ts=2025-08-01" alt="GitHub Summary" />
 <!-- summary:end -->
 
 ---
