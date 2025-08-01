@@ -98,13 +98,12 @@
 
 </tbody>
 </table>
--->
+
 
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/ElianeOliota/pipeline-github/output/github-contribution-grid-snake.svg)
-
-
+-->
 ---
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="/img/eliane_git.gif?raw=true"> 
