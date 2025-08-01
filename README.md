@@ -11,16 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/31%2F07%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+![Data](https://img.shields.io/badge/01/08/2025-Zen--Thought-blue)
 
-<table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:50%;">
-  <tr>
-    <td style="background:#f9f9f9; text-align:center;">
-      &quot;Victory is always possible for the person who refuses to stop fighting.&quot;<br><strong>— Napoleon Hill</strong>
-    </td>
-  </tr>
-</table>
- 
+```txt
+"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."
+— Buddha
+```
 <!-- thought:end -->
 
 <!--
