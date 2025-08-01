@@ -88,6 +88,7 @@ for ((i=0; i < ${#YEARS_SORTED[@]} - 1; i++)); do
   LABELS="${LABELS}<line x1=\"$XV\" y1=\"-15\" x2=\"$XV\" y2=\"0\" stroke=\"#000\" stroke-width=\"2\" />\n"
 done
 
+# Escape slashes and ampersands for sed
 escape_sed() {
   printf '%s' "$1" | sed -e 's/[\/&]/\\&/g'
 }
@@ -96,4 +97,4 @@ PATTERN_DEFS_ESCAPED=$(escape_sed "$PATTERN_DEFS")
 BORDER_ESCAPED=$(escape_sed "$BORDER")
 LABELS_ESCAPED=$(escape_sed "$LABELS")
 
-sed -E "s@<svg[^>]*>@&\n$PATTERN_DEFS_ESCAPED\n$BORDER_ESCAPED\n$LABELS_ESCAPED@" "$ORIGINAL" > "$TARGET"
+sed "s|<svg[^>]*>|&\n$PATTERN_DEFS_ESCAPED\n$BORDER_ESCAPED\n$LABELS_ESCAPED|" "$ORIGINAL" > "$TARGET"
