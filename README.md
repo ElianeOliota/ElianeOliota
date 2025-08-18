@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/17%2F08%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/18%2F08%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Trust thyself: every heart vibrates to that iron string.&quot;<br><strong>— Ralph Waldo Emerson</strong>
+      &quot;Even if you're sure you can win, be careful that you can live with what you lose.&quot;<br><strong>— Gary Keller</strong>
     </td>
   </tr>
 </table>
