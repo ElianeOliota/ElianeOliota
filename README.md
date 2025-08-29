@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/28%2F08%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/29%2F08%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Success is never final, failure is never fatal. It's courage that counts.&quot;<br><strong>— John Wooden</strong>
+      &quot;Progress is impossible without change, and those who cannot change their minds cannot change anything.&quot;<br><strong>— George Bernard Shaw</strong>
     </td>
   </tr>
 </table>
