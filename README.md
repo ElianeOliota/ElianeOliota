@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/04%2F09%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/05%2F09%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;You will face many defeats in life, but never let yourself be defeated.&quot;<br><strong>— Maya Angelou</strong>
+      &quot;Start the day with love, spend the day with love, fill the day with love and end the day with love.&quot;<br><strong>— Sathya Sai Baba</strong>
     </td>
   </tr>
 </table>
