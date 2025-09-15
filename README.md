@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/14%2F09%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/15%2F09%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Have the fearless attitude of a hero and the loving heart of a child.&quot;<br><strong>— Soyen Shaku</strong>
+      &quot;Difficulties strengthen the mind, as labor does the body.  &quot;<br><strong>— Seneca</strong>
     </td>
   </tr>
 </table>
