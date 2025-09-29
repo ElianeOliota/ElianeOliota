@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/28%2F09%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/29%2F09%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;It's what you do in the present that will redeem the past and thereby change the future.&quot;<br><strong>— Paulo Coelho</strong>
+      &quot;The eyes of others our prisons; their thoughts our cages.&quot;<br><strong>— Virginia Woolf</strong>
     </td>
   </tr>
 </table>
