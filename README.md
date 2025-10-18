@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/17%2F10%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/18%2F10%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;It's not the love you make. It's the love you give. &quot;<br><strong>— Nikola Tesla</strong>
+      &quot;What's the point in being smart enough to read, if everything you read makes you dumb?&quot;<br><strong>— C. Sean McGee</strong>
     </td>
   </tr>
 </table>
