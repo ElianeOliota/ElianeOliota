@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/18%2F10%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/19%2F10%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;What's the point in being smart enough to read, if everything you read makes you dumb?&quot;<br><strong>— C. Sean McGee</strong>
+      &quot;Try not to become a man of success, but rather try to become a man of value.&quot;<br><strong>— Albert Einstein</strong>
     </td>
   </tr>
 </table>
