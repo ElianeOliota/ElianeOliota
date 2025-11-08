@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/07%2F11%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/08%2F11%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.&quot;<br><strong>— Robert Greene</strong>
+      &quot;If you're brave enough to say goodbye, life will reward you with a new hello.&quot;<br><strong>— Paulo Coelho</strong>
     </td>
   </tr>
 </table>
