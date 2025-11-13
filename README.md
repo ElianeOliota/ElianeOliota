@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/12%2F11%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/13%2F11%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;You have the ability, now apply yourself.&quot;<br><strong>— Benjamin Mays</strong>
+      &quot;Always turn a negative situation into a positive situation.&quot;<br><strong>— Michael Jordan</strong>
     </td>
   </tr>
 </table>
