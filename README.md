@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/14%2F11%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/15%2F11%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.&quot;<br><strong>— Unknown</strong>
+      &quot;Life is what you make it. Always has been, always will be.&quot;<br><strong>— Eleanor Roosevelt</strong>
     </td>
   </tr>
 </table>
