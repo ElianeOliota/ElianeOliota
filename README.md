@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/17%2F11%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/18%2F11%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Start each day with a positive thought and a grateful heart.&quot;<br><strong>— Roy T. Bennett</strong>
+      &quot;Whenever you find yourself on the side of the majority, it is time to reform.&quot;<br><strong>— Mark Twain</strong>
     </td>
   </tr>
 </table>
