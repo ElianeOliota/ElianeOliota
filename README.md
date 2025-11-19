@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/18%2F11%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/19%2F11%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Whenever you find yourself on the side of the majority, it is time to reform.&quot;<br><strong>— Mark Twain</strong>
+      &quot;Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.&quot;<br><strong>— Paramahansa Yogananda</strong>
     </td>
   </tr>
 </table>
