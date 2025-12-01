@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/30%2F11%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/01%2F12%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;The moment you stop to think about whether you love someone, you've already stopped loving that person forever.&quot;<br><strong>— Carlos Ruiz Zafon</strong>
+      &quot;The best teacher is experience and not through someone's distorted point of view.&quot;<br><strong>— Jack Kerouac</strong>
     </td>
   </tr>
 </table>
