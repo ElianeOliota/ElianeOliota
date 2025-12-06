@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/05%2F12%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/06%2F12%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;The sun is new each day.&quot;<br><strong>— Heraclitus</strong>
+      &quot;What people say, what people do, and what they say they do are entirely different things. &quot;<br><strong>— Margaret Mead</strong>
     </td>
   </tr>
 </table>
