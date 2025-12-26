@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/25%2F12%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/26%2F12%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;It's your outlook on life that counts.&quot;<br><strong>— Betty White</strong>
+      &quot;We have a duty to maintain the light of consciousness to make sure it continues into the future.&quot;<br><strong>— Elon Musk</strong>
     </td>
   </tr>
 </table>
