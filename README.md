@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/28%2F12%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/29%2F12%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Be kind whenever possible. It is always possible.&quot;<br><strong>— Dalai Lama</strong>
+      &quot;Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!&quot;<br><strong>— Alfred Adler</strong>
     </td>
   </tr>
 </table>
