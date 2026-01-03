@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/02%2F01%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/03%2F01%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;The highest level of wisdom is when you not only accept but love adversity.&quot;<br><strong>— Maxime Lagace</strong>
+      &quot;If you see a get rich quick scheme, that's someone else trying to get rich off of you.&quot;<br><strong>— Naval Ravikant</strong>
     </td>
   </tr>
 </table>
