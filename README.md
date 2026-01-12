@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/11%2F01%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/12%2F01%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.&quot;<br><strong>— Gary Keller</strong>
+      &quot;New opinions are always suspected, and usually opposed, without any other reason but because they are not common.&quot;<br><strong>— John Locke</strong>
     </td>
   </tr>
 </table>
