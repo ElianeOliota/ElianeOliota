@@ -27,7 +27,7 @@
     
     @keyframes streakAnimation {
   0% { stroke-dashoffset: 360; }
-  50% { stroke-dashoffset: 180; }
+  50% { stroke-dashoffset: 179.02; }
   100% { stroke-dashoffset: 360; }
 }
 
@@ -114,15 +114,15 @@
   <g font-size="15" font-weight="bold" fill="#003366">
     <text x="45" y="90">Contributions</text>
     <text x="45" y="140" fill="green">Total:</text>
-    <text x="180" y="140" fill="black">2424</text>
+    <text x="180" y="140" fill="black">2438</text>
     <text x="45" y="170" fill="green">Longest Streak:</text>
-    <text x="180" y="170" fill="black">183 days</text>
+    <text x="180" y="170" fill="black">184 days</text>
     <line x1="40" y1="190" x2="400" y2="190" stroke="#ccc" stroke-width="1"/>
     <text x="45" y="210">Stats</text>
     <text x="45" y="240" fill="green">Stars:</text>
     <text x="180" y="240" fill="black">4</text>
     <text x="45" y="270" fill="green">Commits in 2026:</text>
-    <text x="180" y="270" fill="black">2412</text>
+    <text x="180" y="270" fill="black">2426</text>
     <text x="45" y="300" fill="green">PRs:</text>
     <text x="180" y="300" fill="black">6</text>
     <text x="45" y="330" fill="green">Issues:</text>
@@ -201,11 +201,11 @@
       </g>
     </g>
 
-    <text x="550" y="120" class="rank-text" text-anchor="middle">183</text>
+    <text x="550" y="120" class="rank-text" text-anchor="middle">184</text>
     <text x="550" y="135" fill="#003366" text-anchor="middle" font-size="15" font-weight="bold">Days streak</text>
     <text x="550" y="160" fill="black" text-anchor="middle" font-size="15">17/07/2025</text>
     <text x="550" y="170" fill="black" text-anchor="middle" font-size="15" font-weight="bold">...</text>
-    <text x="550" y="190" fill="black" text-anchor="middle" font-size="15">15/01/2026</text>
+    <text x="550" y="190" fill="black" text-anchor="middle" font-size="15">16/01/2026</text>
   </g>
   
 
@@ -219,84 +219,84 @@
     <g font-size="10" opacity="1">
       <text x="545" y="95">👑</text>
       <animateTransform attributeName="transform" type="translate"
-                        values="0,0; -4.6,-34.4"
-                        dur="1.63s"
+                        values="0,0; -7.4,-40.1"
+                        dur="1.67s"
                         begin="0.0s"
                         repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0"
-               dur="1.63s"
+               dur="1.67s"
                begin="0.0s"
                repeatCount="indefinite"/>
     </g>
     <g font-size="10" opacity="1">
       <text x="545" y="95">👑</text>
       <animateTransform attributeName="transform" type="translate"
-                        values="0,0; 6.8,-32.3"
-                        dur="2.02s"
+                        values="0,0; 2.5,-21.9"
+                        dur="1.57s"
                         begin="0.3s"
                         repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0"
-               dur="2.02s"
+               dur="1.57s"
                begin="0.3s"
                repeatCount="indefinite"/>
     </g>
     <g font-size="10" opacity="1">
       <text x="545" y="95">👑</text>
       <animateTransform attributeName="transform" type="translate"
-                        values="0,0; -7.2,-24.6"
-                        dur="1.24s"
+                        values="0,0; -3.8,-26.4"
+                        dur="1.53s"
                         begin="0.6s"
                         repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0"
-               dur="1.24s"
+               dur="1.53s"
                begin="0.6s"
                repeatCount="indefinite"/>
     </g>
     <g font-size="10" opacity="1">
       <text x="545" y="95">👑</text>
       <animateTransform attributeName="transform" type="translate"
-                        values="0,0; 3,-29.7"
-                        dur="1.50s"
+                        values="0,0; 3.3,-47.6"
+                        dur="1.66s"
                         begin="0.9s"
                         repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0"
-               dur="1.50s"
+               dur="1.66s"
                begin="0.9s"
                repeatCount="indefinite"/>
     </g>
     <g font-size="10" opacity="1">
       <text x="545" y="95">👑</text>
       <animateTransform attributeName="transform" type="translate"
-                        values="0,0; -4.9,-21.6"
-                        dur="1.46s"
+                        values="0,0; -6.6,-15.2"
+                        dur="1.29s"
                         begin="1.2s"
                         repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0"
-               dur="1.46s"
+               dur="1.29s"
                begin="1.2s"
                repeatCount="indefinite"/>
     </g>
     <g font-size="10" opacity="1">
       <text x="545" y="95">👑</text>
       <animateTransform attributeName="transform" type="translate"
-                        values="0,0; 7.8,-28.2"
-                        dur="1.90s"
+                        values="0,0; 4.8,-22.4"
+                        dur="1.75s"
                         begin="1.5s"
                         repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0"
-               dur="1.90s"
+               dur="1.75s"
                begin="1.5s"
                repeatCount="indefinite"/>
     </g>
     <g font-size="10" opacity="1">
       <text x="545" y="95">👑</text>
       <animateTransform attributeName="transform" type="translate"
-                        values="0,0; -2.3,-23.0"
-                        dur="1.34s"
+                        values="0,0; -5.9,-40.7"
+                        dur="2.02s"
                         begin="1.8s"
                         repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0"
-               dur="1.34s"
+               dur="2.02s"
                begin="1.8s"
                repeatCount="indefinite"/>
     </g>
