@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/01%2F02%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/02%2F02%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;You will face many defeats in life, but never let yourself be defeated.&quot;<br><strong>— Maya Angelou</strong>
+      &quot;The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. &quot;<br><strong>— Charles Swindoll</strong>
     </td>
   </tr>
 </table>
