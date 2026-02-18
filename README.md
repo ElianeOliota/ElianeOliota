@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/17%2F02%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/18%2F02%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Nothing is more creative...nor destructive...than a brilliant mind with a purpose.&quot;<br><strong>— Dan Brown</strong>
+      &quot;The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.&quot;<br><strong>— Eckhart Tolle</strong>
     </td>
   </tr>
 </table>
