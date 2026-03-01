@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/28%2F02%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/01%2F03%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.&quot;<br><strong>— J.R.R. Tolkien</strong>
+      &quot;Be willing to be a beginner every single morning.&quot;<br><strong>— Meister Eckhart</strong>
     </td>
   </tr>
 </table>
