@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/16%2F03%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/17%2F03%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Don't stop when you're tired. Stop when you're done.&quot;<br><strong>— Marilyn Monroe</strong>
+      &quot;No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.&quot;<br><strong>— Kamal Ravikant</strong>
     </td>
   </tr>
 </table>
