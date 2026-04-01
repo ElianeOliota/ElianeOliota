@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/31%2F03%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/01%2F04%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.&quot;<br><strong>— Colin Powell</strong>
+      &quot;To love means loving the unlovable.&quot;<br><strong>— Gilbert Chesterton</strong>
     </td>
   </tr>
 </table>
