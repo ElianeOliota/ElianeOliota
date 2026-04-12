@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/11%2F04%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/12%2F04%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;However difficult life may seem, there is always something you can do and succeed at.&quot;<br><strong>— Stephen Hawking</strong>
+      &quot;Definitions belong to the definers, not the defined.&quot;<br><strong>— Toni Morrison</strong>
     </td>
   </tr>
 </table>
