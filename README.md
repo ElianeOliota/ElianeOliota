@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/16%2F04%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/17%2F04%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Those who are possessed by nothing possess everything.&quot;<br><strong>— Morihei Ueshiba</strong>
+      &quot;The more you are grateful for what you have the more you will have to be grateful for.  &quot;<br><strong>— Zig Ziglar</strong>
     </td>
   </tr>
 </table>
