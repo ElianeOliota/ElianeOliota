@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/04%2F05%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/05%2F05%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Faithless is he that says farewell when the road darkens.&quot;<br><strong>— J.R.R. Tolkien</strong>
+      &quot;You can calculate the worth of a man by the number of his enemies.&quot;<br><strong>— Gustave Flaubert</strong>
     </td>
   </tr>
 </table>
