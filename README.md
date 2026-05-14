@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/13%2F05%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/14%2F05%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Progress comes to those who train and train; reliance on secret techniques will get you nowhere.&quot;<br><strong>— Morihei Ueshiba</strong>
+      &quot;We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.&quot;<br><strong>— Emily Dickinson</strong>
     </td>
   </tr>
 </table>
