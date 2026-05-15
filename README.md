@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/14%2F05%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/15%2F05%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.&quot;<br><strong>— Emily Dickinson</strong>
+      &quot;The person who never made a mistake never tried anything new.&quot;<br><strong>— Albert Einstein</strong>
     </td>
   </tr>
 </table>
