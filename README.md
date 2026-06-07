@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/06%2F06%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/07%2F06%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;They who have conquered doubt and fear have conquered failure.&quot;<br><strong>— James Allen</strong>
+      &quot;Be as fluid as water, do not give your enemies anything solid to attack.&quot;<br><strong>— Robert Greene</strong>
     </td>
   </tr>
 </table>
