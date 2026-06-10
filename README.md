@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/09%2F06%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/10%2F06%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;The only real mistake is the one from which we learn nothing.&quot;<br><strong>— Henry Ford</strong>
+      &quot;Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.&quot;<br><strong>— Buddha</strong>
     </td>
   </tr>
 </table>
