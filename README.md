@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/17%2F06%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/18%2F06%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Wisdom is doing now what you are going to be happy with later on.&quot;<br><strong>— Joyce Meyer</strong>
+      &quot;The secret of life isn't what happens to you, but what you do with what happens to you.&quot;<br><strong>— Norman Vincent Peale</strong>
     </td>
   </tr>
 </table>
