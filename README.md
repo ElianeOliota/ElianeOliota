@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/29%2F06%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/30%2F06%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;It is not titles that honour men, but men that honour titles.&quot;<br><strong>— Niccolo Machiavelli</strong>
+      &quot;The ability to observe without evaluating is the highest form of intelligence.&quot;<br><strong>— Jiddu Krishnamurti</strong>
     </td>
   </tr>
 </table>
