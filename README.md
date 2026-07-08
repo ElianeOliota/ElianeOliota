@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/07%2F07%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/08%2F07%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;The quality, not the longevity, of one's life is what is important.&quot;<br><strong>— Martin Luther King, Jr.</strong>
+      &quot;Catch, then, O catch the transient hour; Improve each moment as it flies!&quot;<br><strong>— St. Jerome</strong>
     </td>
   </tr>
 </table>
