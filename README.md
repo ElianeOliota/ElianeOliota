@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/21%2F07%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/22%2F07%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Life is the dancer and you are the dance.&quot;<br><strong>— Eckhart Tolle</strong>
+      &quot;They who have conquered doubt and fear have conquered failure.&quot;<br><strong>— James Allen</strong>
     </td>
   </tr>
 </table>
