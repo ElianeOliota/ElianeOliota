@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/28%2F07%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/29%2F07%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Everything great that has ever happened to humanity has begun as a single thought in someone's mind.&quot;<br><strong>— Yanni</strong>
+      &quot;Go as far as you can see and you will see further.&quot;<br><strong>— Zig Ziglar</strong>
     </td>
   </tr>
 </table>
