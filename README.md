@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/30%2F07%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/31%2F07%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;The least deviation from truth will be multiplied later.&quot;<br><strong>— Aristotle</strong>
+      &quot;Nothing ever goes away until it has taught us what we need to know.&quot;<br><strong>— Pema Chodron</strong>
     </td>
   </tr>
 </table>
