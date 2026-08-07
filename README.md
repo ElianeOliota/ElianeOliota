@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/06%2F08%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/07%2F08%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Don't worry about being successful, but work toward being significant and the success will naturally follow.&quot;<br><strong>— Oprah Winfrey</strong>
+      &quot;When you move beyond your fear, you feel free.&quot;<br><strong>— Spencer Johnson</strong>
     </td>
   </tr>
 </table>
