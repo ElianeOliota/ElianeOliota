@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/30%2F08%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/31%2F08%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;An ounce of performance is worth pounds of promises.&quot;<br><strong>— Mae West</strong>
+      &quot;Life is all about mistakes. It is constant change and growth.&quot;<br><strong>— Neale Donald Walsch</strong>
     </td>
   </tr>
 </table>
