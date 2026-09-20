@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/19%2F09%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/20%2F09%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;You are what you believe yourself to be.&quot;<br><strong>— Paulo Coelho</strong>
+      &quot;Human beings can alter their lives by altering their attitudes of mind.&quot;<br><strong>— William James</strong>
     </td>
   </tr>
 </table>
