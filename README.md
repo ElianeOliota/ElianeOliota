@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/09%2F10%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/10%2F10%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Successful people do what unsuccessful people are not willing to do.&quot;<br><strong>— Jim Rohn</strong>
+      &quot;Don't seek, don't avoid, don't expect. Take what comes and be happy.&quot;<br><strong>— Maxime Lagace</strong>
     </td>
   </tr>
 </table>
