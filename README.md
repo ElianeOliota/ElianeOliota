@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/23%2F10%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/24%2F10%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;It takes real work to grasp what is invisible to just about everyone else.&quot;<br><strong>— Ryan Holiday</strong>
+      &quot;Don't be afraid to go slowly. Be afraid of stopping.&quot;<br><strong>— Zen Proverb</strong>
     </td>
   </tr>
 </table>
