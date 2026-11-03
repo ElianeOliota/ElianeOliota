@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/02%2F11%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/03%2F11%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.&quot;<br><strong>— Wayne Dyer</strong>
+      &quot;Genius is the ability to act rightly without precedent - the power to do the right thing the first time.&quot;<br><strong>— Elbert Hubbard</strong>
     </td>
   </tr>
 </table>
