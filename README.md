@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/10%2F11%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/11%2F11%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.&quot;<br><strong>— Audrey Hepburn</strong>
+      &quot;One must be poor to know the luxury of giving.&quot;<br><strong>— George Eliot</strong>
     </td>
   </tr>
 </table>
