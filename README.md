@@ -11,12 +11,12 @@
 ---
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/15%2F11%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/16%2F11%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Disobedience is the true foundation of liberty. The obedient must be slaves.&quot;<br><strong>— Henry David Thoreau</strong>
+      &quot;To wish you were someone else is to waste the person you are.&quot;<br><strong>— Unknown</strong>
     </td>
   </tr>
 </table>
